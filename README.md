@@ -1,8 +1,3 @@
-# React + Vite
+# Linkedin Job Portal (MERN STACK)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The "LinkedIn Job Portal Project" is an innovative application built using the MERN stack (MongoDB, Express.js, React, and Node.js) designed to help users seamlessly connect to the professional world. This platform allows users to create detailed profiles using graphs and charts, search for job opportunities, and connect with potential employers and industry professionals. By leveraging real-time updates and a user-friendly interface, the portal enhances the job search experience, making it more efficient and interactive. Users can also network with peers, join professional groups, and stay informed about industry trends. Overall, this project aims to bridge the gap between job seekers and employers, fostering professional growth and opportunities.
